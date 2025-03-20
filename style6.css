@@ -810,13 +810,6 @@
   position: relative;
 }
 
-.navbar-nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around; 
-  align-items: center;
-  gap: 10px; 
-}
 .home {
   color: #000000;
   text-align: left;
